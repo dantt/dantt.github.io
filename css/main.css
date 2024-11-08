@@ -33,6 +33,29 @@ main {
   margin: 0 auto;
 }
 
+.menu-container {
+  max-width: 100%;
+  overflow: auto;
+  overflow-y: hidden;
+}
+
+/* Burger menu styles */
+.burger-menu {
+  display: none;
+  flex-direction: column;
+  cursor: pointer;
+  padding: 1rem;
+}
+
+.burger-menu span {
+  height: 2px;
+  width: 20px;
+  background-color: #333;
+  margin: 2px 0;
+  transition: 0.4s;
+}
+
+/* Hide the menu by default on mobile */
 .menu {
   display: flex;
   justify-content: center;
@@ -40,9 +63,56 @@ main {
   padding: 0;
   margin: 1rem;
 }
+
 .menu-item {
   margin-left: 3rem;
+  position: relative;
 }
+
+@media (min-width: 768px) {
+.menu-item:not(:last-child)::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  right: -1.5rem;
+  transform: translateY(-50%);
+  width: 1px;
+  height: 80%;
+  background-color: lightgrey;
+}
+}
+@media (max-width: 768px) {
+  .burger-menu {
+    display: flex;
+  }
+
+  .menu {
+    display: none;
+    flex-direction: column;
+    width: 100%;
+    background-color: #fff;
+    padding: 1rem;
+    margin: 0;
+  }
+
+  .menu-item {
+    margin: 0.5rem 0;
+    padding: 0.5rem 0;
+  }
+
+  .menu-item:not(:last-child) {
+    border-bottom: 1px solid #ddd;
+  }
+
+  .menu-link {
+    font-size: 1.5rem;
+  }
+
+  .menu.show {
+    display: flex;
+  }
+}
+
 .menu-link {
   text-decoration: none;
   font-style: bold;
@@ -57,6 +127,9 @@ main {
   /* background-color: #f2fcf2; */
   padding: 0.2rem 0;
   border-radius: 0.2rem;
+}
+
+.container a {
   text-wrap: nowrap;
 }
 
