@@ -253,11 +253,39 @@ main {
 @media (max-width: 768px) {
   .container {
     grid-template-columns: 1fr;
+    gap: 1rem;
     margin: 3% 5%;
+  }
+
+  .section {
+    margin: 3em 5%;
+  }
+
+  .left-column {
+    align-items: center;
+    text-align: center;
+  }
+
+  .social-links {
+    text-align: left;
   }
 
   .left-column, .right-column {
     margin: 0;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1200px) {
+  .container {
+    margin: 3% 5%;
+    gap: 3rem;
+  }
+
+  .left-column, .right-column {
+    margin: 0;
+  }
+  .right-column {
+    padding-right: 3rem;
   }
 }
 
