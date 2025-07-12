@@ -2,61 +2,61 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/publications/schneider-2024-breaking/</loc>
+    <loc>https://daniele.lain.fyi/publications/index.tex</loc>
+    <lastmod>2025-01-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://daniele.lain.fyi/publications/lain-2025-url/</loc>
+    <lastmod>2025-01-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://daniele.lain.fyi/publications/anliker-2025-phishing/</loc>
     <lastmod>2025-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/publications/index.tex</loc>
-    <lastmod>2025-01-02T00:00:00+00:00</lastmod>
+    <loc>https://daniele.lain.fyi/publications/schneider-2024-breaking/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/publications/anliker-2025-phishing/</loc>
+    <loc>https://daniele.lain.fyi/publications/lain-2024-content/</loc>
     <lastmod>2024-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/publications/lain-2024-content/</loc>
-    <lastmod>2024-02-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/publications/lain-2025-url/</loc>
-    <lastmod>2024-02-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/publications/puddu-2024-lack/</loc>
+    <loc>https://daniele.lain.fyi/publications/puddu-2024-lack/</loc>
     <lastmod>2024-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://daniele.lain.fyi/</loc>
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/publications/lain-2021-phishing/</loc>
+    <loc>https://daniele.lain.fyi/publications/lain-2021-phishing/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/publications/dalskov-20202-fe/</loc>
+    <loc>https://daniele.lain.fyi/publications/dalskov-20202-fe/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/publications/sluganovic-2020-integriscreen/</loc>
+    <loc>https://daniele.lain.fyi/publications/sluganovic-2020-integriscreen/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/publications/ulqinaku-20192-fa/</loc>
+    <loc>https://daniele.lain.fyi/publications/ulqinaku-20192-fa/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/publications/balagani-2019-pilot/</loc>
+    <loc>https://daniele.lain.fyi/publications/balagani-2019-pilot/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/publications/cecconello-2019-skype/</loc>
+    <loc>https://daniele.lain.fyi/publications/cecconello-2019-skype/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/publications/puddu-2019-teevil/</loc>
+    <loc>https://daniele.lain.fyi/publications/puddu-2019-teevil/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/publications/biondo-2018-back/</loc>
+    <loc>https://daniele.lain.fyi/publications/biondo-2018-back/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/publications/balagani-2018-silk/</loc>
+    <loc>https://daniele.lain.fyi/publications/balagani-2018-silk/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/publications/compagno-2017-don/</loc>
+    <loc>https://daniele.lain.fyi/publications/compagno-2017-don/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/publications/conti-2017-s/</loc>
+    <loc>https://daniele.lain.fyi/publications/conti-2017-s/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/publications/compagno-2015-boten/</loc>
+    <loc>https://daniele.lain.fyi/publications/compagno-2015-boten/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
   </url>
 </urlset>
